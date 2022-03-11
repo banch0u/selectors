@@ -1,0 +1,16 @@
+.Dicks{
+    font-family: Verdana, "DejaVu", "Sans", sans-serif;
+    background-color: pink;
+}
+#id{
+    color: blue;
+    font-size: 36px;
+}
+.Cool{
+    font-size: 24px;
+}
+#anotherId{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
